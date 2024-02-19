@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://mikeyshell.github.io"
-baseurl: "/photorama"
+url: "https://mikeyshell.eu.org"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://mikeyshell.github.io/photorama/gallery/"  
-  - JOURNAL: "https://mikeyshell.github.io/photorama/journal/"
-  - ABOUT: "https://mikeyshell.github.io/photorama/about/"
+  - GALLERY: "https://mikeyshell.eu.org/gallery/"  
+  - JOURNAL: "https://mikeyshell.eu.org/journal/"
+  - ABOUT: "https://mikeyshell.eu.org/about/"
 
 # All translation keys
 translations:
